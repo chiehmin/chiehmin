@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Chieh-Min. A passionate software engineer who is always learning and trying to build stuff making the life easier 😃.
+This is Chieh-Min. A passionate software engineer who is always learning and trying to build stuff to make the life easier 😃.
 
 <!--
 **chiehmin/chiehmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
